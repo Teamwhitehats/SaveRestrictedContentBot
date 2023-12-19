@@ -17,7 +17,7 @@ for name in files:
 
 #Don't be a thief 
 print("Successfully deployed!")
-print("By MaheshChauhan • Team_whitehat")
+print("By Hackervipking • Team_whitehat")
 
 if __name__ == "__main__":
     bot.run_until_disconnected()
